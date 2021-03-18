@@ -20,7 +20,10 @@ namespace WinFormsApp1
             }
             base.Dispose(disposing);
         }
-
+        public int sum(int a, int b)
+        {
+            return a + b;
+        }
         #region Windows Form Designer generated code
 
         /// <summary>
