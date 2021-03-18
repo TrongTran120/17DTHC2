@@ -22,6 +22,7 @@ namespace WinFormsApp1
         }
         public int sum(int a, int b)
         {
+            // Sao may ko comment lai
             return a + b;
         }
         #region Windows Form Designer generated code
