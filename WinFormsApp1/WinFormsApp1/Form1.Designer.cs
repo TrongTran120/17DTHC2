@@ -20,8 +20,8 @@ namespace WinFormsApp1
             }
             base.Dispose(disposing);
         }
-        // Fetch cc
-        public int hieu(int a, int b)
+        // Fetch cc tri
+        public int hieu2(int a, int b)
         {
             // comment cc
             return a - b;
