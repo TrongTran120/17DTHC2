@@ -20,7 +20,12 @@ namespace WinFormsApp1
             }
             base.Dispose(disposing);
         }
-
+        // Fetch cc
+        public int tong(int a, int b)
+        {
+            // comment cc 
+            return a + b;
+        }
         #region Windows Form Designer generated code
 
         /// <summary>
