@@ -21,10 +21,10 @@ namespace WinFormsApp1
             base.Dispose(disposing);
         }
         // Fetch cc
-        public int sum(int a, int b)
+        public int hieu(int a, int b)
         {
-            // Sao may ko comment lai
-            return a + b;
+            // comment cc
+            return a - b;
         }
         #region Windows Form Designer generated code
 
