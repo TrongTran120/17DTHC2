@@ -20,6 +20,7 @@ namespace WinFormsApp1
             }
             base.Dispose(disposing);
         }
+        // Fetch cc
         public int sum(int a, int b)
         {
             // Sao may ko comment lai
