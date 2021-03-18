@@ -24,7 +24,7 @@ namespace WinFormsApp1
         public int tong(int a, int b)
         {
             // comment cc 
-            return a + b;
+            return 1;
         }
         #region Windows Form Designer generated code
 
